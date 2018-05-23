@@ -5,5 +5,8 @@ We created a movie recommendation system in Python using TF-IDF. Essentially, TF
 
 Sources: 
 https://www.quora.com/How-does-TF-IDF-work
+
+https://archive.org/details/third-eye
+
 https://www.datacamp.com/community/tutorials/recommender-systems-python
 
